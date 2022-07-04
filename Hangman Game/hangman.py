@@ -35,7 +35,7 @@ def hangman():
                 print("\n---------------------------- ")
 
             if chance == 8:
-                print("9 turns left")
+                print("8 turns left")
                 print("\n---------------------------- ")
                 print("      O     ")
             if chance == 7:
